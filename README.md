@@ -1,4 +1,5 @@
 # hub-info: [npmjs.com/package/hub-info](https://www.npmjs.com/package/hub-info)
+Get the github info for any username passed through parameter for the loadGitHubInfo function.
 
 # Install
 ```yarn add hub-info``` or `npm i hub-info` 
