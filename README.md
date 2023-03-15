@@ -1,1 +1,1 @@
-# github-info
+# hub-info
